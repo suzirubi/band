@@ -1,0 +1,21 @@
+.sidebar {
+  width: 50%;
+  float: right;
+  background-color: #f2ebba;
+  margin-right: 100px;
+  padding: 10px;
+}
+.column {
+  width: 50%;
+  float: left;
+}
+.main {
+  float: left;
+}
+
+
+
+h2 {
+  text-align: center;
+  font-variant: normal;
+}
