@@ -1,4 +1,4 @@
-# Adopt a pet website
+# Favorite band website
 
 ### _Wikipedia home page exercise for Epicodus, 10-12-16_
 
